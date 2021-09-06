@@ -1,8 +1,8 @@
 
 
-![Screenshot](screenshots/screenshot (1).png)
-![Screenshot](screenshots/screenshot (2).png)
-![Screenshot](screenshots/screenshot (3).png)
-![Screenshot](screenshots/screenshot (4).png)
+![Screenshot](screenshots/screenshot1.png)
+![Screenshot](screenshots/screenshot2.png)
+![Screenshot](screenshots/screenshot3.png)
+![Screenshot](screenshots/screenshot4.png)
 
 
